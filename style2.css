@@ -1,0 +1,227 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image:url(front\ that.jpg);
+    background-position: center;
+    
+}
+#background{
+    background-color: rgba(240, 248, 255, 0.556);
+}
+#background header img{
+    float:left;
+    height: 26px;
+    width: 26px;
+    margin-top:50px;
+    border-radius: none;
+    box-shadow: none;
+}
+#background header img:hover{
+    height: 27px;
+    width: 27px;
+}
+#background header select{
+    float:left;
+    margin-top: 55px;
+    margin-left: 0px;
+    background-color: rgba(182, 182, 179, 0.371);
+    width:16px;
+    border-radius: 3px 4px;
+
+}
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #171212;
+}
+#Research_Work #img1{
+    margin-left: 110px;
+    height: 6cm;
+    width: 7cm;
+    float:unset;
+}
+#Research_Work #img2{
+    margin-left: 110px;
+    height: 6cm;
+    width: 7cm;
+    float:unset;
+}
+#Research_Work h2{
+    margin-left:3px;
+    text-decoration: underline;
+    color: rgba(18, 13, 13, 0.585);
+}
+#Research_Work{
+    background-color: rgba(255, 255, 255, 0.645);
+}
+#Research_Work a:hover{
+    color:rgb(65, 65, 68);
+    font-size: 19px;
+}
+header {
+    text-align: center;
+    background: linear-gradient(rgba(141, 132, 132, 0.151),rgba(172, 221, 152, 0.414));
+}
+header h1,p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header h1{
+    font-size: 40px;
+}
+header p{
+    font-size: x-large;
+}
+nav {
+    text-align: center;
+    background: linear-gradient(rgba(141, 132, 132, 0.151),rgba(73, 83, 69, 0.414));
+}
+
+#Helpful{
+    background:linear-gradient(rgba(0,0,0,0),rgba(112, 143, 19, 0.414));
+}
+#contact{
+    background:linear-gradient(rgba(34, 31, 31, 0.521),rgba(42, 37, 37, 0.142));
+}
+section p{
+    font-size: large;
+    color:rgb(14, 38, 26);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+
+#about_rainwater_terrarium{
+    /*background: linear-gradient(rgba(141, 132, 132, 0.151),rgba(112, 143, 19, 0.414));*/
+    background-color: rgba(255, 255, 255, 0.288);
+
+}
+#Different_Types{
+    background-color: rgba(255, 255, 255, 0.288);
+}
+#Different_Types h2{
+    margin-left: 20px;
+    color:rgba(32, 36, 40, 0.734);
+}
+#about_rainwater_terrarium img{
+    float: right;
+    margin-right: 60px;
+    height:6cm;
+    width:5cm;
+    box-shadow: 2px 3px 3px 3px rgba(89, 255, 0, 0.089);
+}
+#about_rainwater_terrarium img:hover{
+    height:6.2cm;
+    width:5.1cm;
+}
+#about_rainwater_terrarium p,h2{
+    padding-top:0%;
+}
+#SDGs img{
+    height:6cm;
+    width:5.8cm;
+    float:right;
+    margin-right:70px;
+    margin-top:120px;
+}
+#SDGs img:hover{
+    height:6.1cm;
+    width:5.9cm;
+}
+
+#SDGs{
+    background: linear-gradient(rgba(141, 132, 132, 0.151),rgba(140, 174, 36, 0.414));
+    /*background-color: rgba(110, 143, 110, 0.645);*/
+
+}
+#About_Structure{
+    background: linear-gradient(rgba(141, 132, 132, 0.151),rgba(112, 143, 19, 0.414));
+}
+#Gallery h2{
+    margin-left: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(14, 53, 5);
+}
+#Gallery{
+    background-color: rgba(240, 248, 255, 0.101);
+}
+#Gallery img{
+    margin-left: 110px;
+    margin-top: 7px;
+    box-shadow: 2px 3px rgba(255, 255, 255, 0.308);
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    
+}
+nav ul li a{
+    font-style:Garamond;
+    color:rgba(18, 17, 17, 0.867);
+}
+nav ul li a:hover{
+    color:rgb(73, 75, 73);
+    font-size:16.5px;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+section {
+    margin-top: 40px;
+}
+section img{
+    height:4cm;
+    width:5cm;
+    border-radius: 9px;
+    box-shadow: 3px 2px rgba(39, 40, 39, 0.293);
+    margin-left: 30px;
+
+}
+section img:hover{
+    height:4.1cm;
+    width:5.1cm;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/*section*/#contact p a{
+        margin-left: 10px;
+        color:rgb(12, 11, 9);
+       padding-top: 0%;
+       font-family: 'Times New Roman', Times, serif;
+       font-weight:bold;
+       
+}
+/*section*/#contact a:hover{
+    color:rgba(251, 248, 248, 0.77);
+}
+/*section*/#contact img:hover{
+    height:31px;
+    width:31px;
+}
+/*section*/#contact img{
+    margin-left: 8px;
+    height:29px;
+    width:29px;
+    border-radius: 2px;
+    box-shadow: none;
+    float:left;
+}
+
+
+
