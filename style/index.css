@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image:url(/images/background.jpg);
+    background-image:url(images/background.jpg);
     background-position: center;
     
 }
@@ -222,6 +222,7 @@ footer {
     box-shadow: none;
     float:left;
 }
+
 
 
 
