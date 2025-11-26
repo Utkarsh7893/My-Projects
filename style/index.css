@@ -120,14 +120,14 @@ section p{
 }
 #SDGs img{
     height:6cm;
-    width:5.8cm;
+    width:5.6cm;
     float:right;
-    margin-right:70px;
+    margin-right:65px;
     margin-top:120px;
 }
 #SDGs img:hover{
     height:6.1cm;
-    width:5.9cm;
+    width:5.7cm;
 }
 
 #SDGs{
@@ -223,6 +223,7 @@ footer {
     box-shadow: none;
     float:left;
 }
+
 
 
 
